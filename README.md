@@ -14,3 +14,5 @@ Regarding com.springfeatures.demo.security, we have basic authentication in plac
 For integration tests, we explore the `MockMVc` class that we can use to mock real-world requests to our endpoint.
 
 The application is developed from scratch, using IntelliJ IDEA Professional Edition 2019 and Spring Initializr to manage the Spring dependencies.
+
+v1.0 - no security in place, basic showcase of creating a rest controller, delegating business logic to a service class and basic usage of `MockMvc` as means to write readable integration tests.
